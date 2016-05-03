@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name='MyProject',
+    name='PhotoStream',
     version='1.0.0',
-    packages=['myproject'],
+    packages=['photostream'],
     long_description=open('README.md').read(),
 )
